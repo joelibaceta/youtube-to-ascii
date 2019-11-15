@@ -1,0 +1,4 @@
+opencv-python
+xtermcolor
+video-to-ascii
+youtube-dl
