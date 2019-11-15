@@ -1,4 +1,3 @@
 opencv-python
-xtermcolor
-video-to-ascii
+xtermcolor 
 youtube-dl
